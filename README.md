@@ -1,6 +1,6 @@
 # Data repository for R package [wru](https://github.com/kosukeimai/wru)
 
-The following data sets were first used in the following paper.  Please cite this paper when using the data sets in this repository:
+The data sets in this repository were first used in the following paper.  Please cite this paper when using the data sets in this repository:
 
 Kenny, Christopher T., Shiro Kuriwaki, Cory McCartan, Evan Rosenman, Tyler Simko, and Kosuke Imai. ``[The Impact of the U.S. Census Disclosure Avoidance System on Redistricting and Voting Rights Analysis](https://imai.fas.harvard.edu/research/DAS.html).''
 
@@ -14,14 +14,13 @@ Kenny, Christopher T., Shiro Kuriwaki, Cory McCartan, Evan Rosenman, Tyler Simko
     
 3. Surname list from L2 voter files only ([dict_last.csv](dict_last.csv))
     - Data Description: This is a list of U.S. surnames, along with the associated probabilities P(name | ethnicity) for ethnicities: white, Black, Hispanic, Asian, and other. The data is drawn from self-reported race data from L2 voter files for six states: Alabama, Florida, Georgia, Louisiana, North Carolina, and South Carolina.
-    - Data Source: Data courtesy of [L2](https://l2-data.com/)
-
+    - Data Source: Data courtesy of [L2, Inc.](https://l2-data.com/)
 
 4. Middle name list from L2 voter files only ([dict_middle.csv](dict_middle.csv))
     - Data Description: This is a list of U.S. middle names, along with the associated probabilities P(name | ethnicity) for ethnicities: white, Black, Hispanic, Asian, and other. The data is drawn from self-reported race data from L2 voter files for six states: Alabama, Florida, Georgia, Louisiana, North Carolina, and South Carolina.
-    - Data Source: Data courtesy of [L2](https://l2-data.com/)
+    - Data Source: Data courtesy of [L2, Inc.](https://l2-data.com/)
     
 5. First name list from L2 voter files only ([dict_first.csv](dict_first.csv))
     - Data Description: This is a list of U.S. first names, along with the associated probabilities P(name | ethnicity) for ethnicities: white, Black, Hispanic, Asian, and other. The data is drawn from self-reported race data from L2 voter files for six states: Alabama, Florida, Georgia, Louisiana, North Carolina, and South Carolina.
-    - Data Source: Data courtesy of [L2](https://l2-data.com/)
+    - Data Source: Data courtesy of [L2, Inc.](https://l2-data.com/)
     
